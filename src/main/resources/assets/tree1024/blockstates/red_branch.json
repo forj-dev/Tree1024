@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "tree1024:block/red_branch"
+    },
+    "axis=z": {
+      "model": "tree1024:block/red_branch",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "tree1024:block/red_branch",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

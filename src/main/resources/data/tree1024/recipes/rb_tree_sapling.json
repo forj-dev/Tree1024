@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RBR",
+    "BXB",
+    "RBR"
+  ],
+  "key": {
+    "R": {
+      "item": "tree1024:red_branch"
+    },
+    "B": {
+      "item": "tree1024:black_branch"
+    },
+    "X": {
+      "tag": "minecraft:saplings"
+    }
+  },
+  "result": {
+    "item": "tree1024:rb_tree_sapling"
+  }
+}

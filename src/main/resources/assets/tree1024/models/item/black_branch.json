@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "tree1024:blocks/branch_top",
+    "side": "tree1024:blocks/black_branch"
+  }
+}
